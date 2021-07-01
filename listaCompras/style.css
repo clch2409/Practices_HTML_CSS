@@ -1,0 +1,21 @@
+h1 {
+    color: aqua;
+    font-size: 55px;
+    margin-top: 60px;
+
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+/*classs*/
+.lista {
+    color: red;
+    font-size: 20px;
+    list-style: none;
+    padding-left: 50px;
+}
+.lista_item{
+    color: mediumseagreen;
+    list-style: none;
+}
