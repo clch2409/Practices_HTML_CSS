@@ -13,7 +13,8 @@ img{
     color: red;
     font-size: 20px;
     list-style: none;
-    padding-left: 50px;
+    padding-left: 0px;
+    font-family: Courier;
 }
 .lista_item{
     color: mediumseagreen;
