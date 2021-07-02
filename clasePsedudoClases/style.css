@@ -10,7 +10,7 @@
 .main-nav__item a {
     color: white;
     padding: 5px;
-    border-color: orangered;
+    background-color: orangered;
     border-radius: 10px;
     text-decoration: none;
 }
